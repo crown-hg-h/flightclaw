@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+config.local.json
+ctrip-storage-state.json
+ctrip-cookies.json
+flights.ctrip.com*.json
+.env
+*.log
