@@ -1,4 +1,4 @@
-# Flightclaw
+<img width="1583" height="796" alt="image" src="https://github.com/user-attachments/assets/ea713c3b-f8b5-46e1-b403-7b1bccbe0416" /># Flightclaw
 
 **国内低价出行预规划 Skill**：用脚本拉取 **航班**（可接携程列表）与 **12306 列车**，支持 **直飞 / 中转 / 空铁联运** 思路；输出以 **时间轴 + 价格分项** 为准则（见根目录 [`SKILL.md`](SKILL.md)）。**不含订票、占座或支付**，数据均为检索页展示信息，以各平台下单页为准。
 
@@ -128,7 +128,8 @@ flightclaw
 更多示例见 [`docs/examples.md`](docs/examples.md)。
 
 ---
-
+<img width="1583" height="796" alt="image" src="https://github.com/user-attachments/assets/8bd75911-020a-4003-bbb2-ae98f60b8e4c" />
+cookie使用cookie_editor导出到本地把保存地址发给opencalw即可
 ## 合规与免责声明
 
 仅用于个人学习与研究。须遵守各平台服务条款与适用法律。查询结果不构成交易要约。
